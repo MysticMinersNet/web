@@ -1,0 +1,9 @@
+domain: mysticminers.net
+url: https://mysticminers.net
+title: MysticMiners
+description: Mytery & Mining
+permalink: pretty
+lang: en-US
+relative_links:
+  enabled:      true
+  collections:  true
