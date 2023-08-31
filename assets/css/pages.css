@@ -117,6 +117,19 @@ input, select, textarea {
 			border-color: transparent;
 		}
 
+	.flex-container {
+		height: 100%;
+		padding: 0;
+		margin: 0;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.row {
+		display: flex;
+	}
+
 /* Icon */
 
 	.icon {
